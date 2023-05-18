@@ -1,0 +1,15 @@
+C:\Users\admin\RiderProjects\CSharpD01K13\demoClass\demoClass\obj\Debug\net6.0\demoClass.csproj.AssemblyReference.cache
+C:\Users\admin\RiderProjects\CSharpD01K13\demoClass\demoClass\obj\Debug\net6.0\demoClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\RiderProjects\CSharpD01K13\demoClass\demoClass\obj\Debug\net6.0\demoClass.AssemblyInfoInputs.cache
+C:\Users\admin\RiderProjects\CSharpD01K13\demoClass\demoClass\obj\Debug\net6.0\demoClass.AssemblyInfo.cs
+C:\Users\admin\RiderProjects\CSharpD01K13\demoClass\demoClass\obj\Debug\net6.0\demoClass.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\CSharpD01K13\demoClass\demoClass\bin\Debug\net6.0\demoClass.exe
+C:\Users\admin\RiderProjects\CSharpD01K13\demoClass\demoClass\bin\Debug\net6.0\demoClass.deps.json
+C:\Users\admin\RiderProjects\CSharpD01K13\demoClass\demoClass\bin\Debug\net6.0\demoClass.runtimeconfig.json
+C:\Users\admin\RiderProjects\CSharpD01K13\demoClass\demoClass\bin\Debug\net6.0\demoClass.dll
+C:\Users\admin\RiderProjects\CSharpD01K13\demoClass\demoClass\bin\Debug\net6.0\demoClass.pdb
+C:\Users\admin\RiderProjects\CSharpD01K13\demoClass\demoClass\obj\Debug\net6.0\demoClass.dll
+C:\Users\admin\RiderProjects\CSharpD01K13\demoClass\demoClass\obj\Debug\net6.0\refint\demoClass.dll
+C:\Users\admin\RiderProjects\CSharpD01K13\demoClass\demoClass\obj\Debug\net6.0\demoClass.pdb
+C:\Users\admin\RiderProjects\CSharpD01K13\demoClass\demoClass\obj\Debug\net6.0\demoClass.genruntimeconfig.cache
+C:\Users\admin\RiderProjects\CSharpD01K13\demoClass\demoClass\obj\Debug\net6.0\ref\demoClass.dll

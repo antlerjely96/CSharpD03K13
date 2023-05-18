@@ -1,0 +1,15 @@
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\demo1\demo1\bin\Debug\net6.0\demo1.exe
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\demo1\demo1\bin\Debug\net6.0\demo1.deps.json
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\demo1\demo1\bin\Debug\net6.0\demo1.runtimeconfig.json
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\demo1\demo1\bin\Debug\net6.0\demo1.dll
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\demo1\demo1\bin\Debug\net6.0\demo1.pdb
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\demo1\demo1\obj\Debug\net6.0\demo1.csproj.AssemblyReference.cache
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\demo1\demo1\obj\Debug\net6.0\demo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\demo1\demo1\obj\Debug\net6.0\demo1.AssemblyInfoInputs.cache
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\demo1\demo1\obj\Debug\net6.0\demo1.AssemblyInfo.cs
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\demo1\demo1\obj\Debug\net6.0\demo1.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\demo1\demo1\obj\Debug\net6.0\demo1.dll
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\demo1\demo1\obj\Debug\net6.0\refint\demo1.dll
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\demo1\demo1\obj\Debug\net6.0\demo1.pdb
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\demo1\demo1\obj\Debug\net6.0\demo1.genruntimeconfig.cache
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\demo1\demo1\obj\Debug\net6.0\ref\demo1.dll
