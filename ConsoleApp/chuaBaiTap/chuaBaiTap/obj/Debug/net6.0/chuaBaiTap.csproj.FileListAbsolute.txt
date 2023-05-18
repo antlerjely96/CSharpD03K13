@@ -1,0 +1,15 @@
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\chuaBaiTap\chuaBaiTap\bin\Debug\net6.0\chuaBaiTap.exe
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\chuaBaiTap\chuaBaiTap\bin\Debug\net6.0\chuaBaiTap.deps.json
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\chuaBaiTap\chuaBaiTap\bin\Debug\net6.0\chuaBaiTap.runtimeconfig.json
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\chuaBaiTap\chuaBaiTap\bin\Debug\net6.0\chuaBaiTap.dll
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\chuaBaiTap\chuaBaiTap\bin\Debug\net6.0\chuaBaiTap.pdb
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\chuaBaiTap\chuaBaiTap\obj\Debug\net6.0\chuaBaiTap.csproj.AssemblyReference.cache
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\chuaBaiTap\chuaBaiTap\obj\Debug\net6.0\chuaBaiTap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\chuaBaiTap\chuaBaiTap\obj\Debug\net6.0\chuaBaiTap.AssemblyInfoInputs.cache
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\chuaBaiTap\chuaBaiTap\obj\Debug\net6.0\chuaBaiTap.AssemblyInfo.cs
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\chuaBaiTap\chuaBaiTap\obj\Debug\net6.0\chuaBaiTap.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\chuaBaiTap\chuaBaiTap\obj\Debug\net6.0\chuaBaiTap.dll
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\chuaBaiTap\chuaBaiTap\obj\Debug\net6.0\refint\chuaBaiTap.dll
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\chuaBaiTap\chuaBaiTap\obj\Debug\net6.0\chuaBaiTap.pdb
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\chuaBaiTap\chuaBaiTap\obj\Debug\net6.0\chuaBaiTap.genruntimeconfig.cache
+C:\Users\admin\RiderProjects\CSharpD03K13\ConsoleApp\chuaBaiTap\chuaBaiTap\obj\Debug\net6.0\ref\chuaBaiTap.dll
