@@ -1,0 +1,11 @@
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\DemoIntroduct\DemoIntroduct\bin\Debug\DemoIntroduct.exe.config
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\DemoIntroduct\DemoIntroduct\bin\Debug\DemoIntroduct.exe
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\DemoIntroduct\DemoIntroduct\bin\Debug\DemoIntroduct.pdb
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\DemoIntroduct\DemoIntroduct\obj\Debug\DemoIntroduct.csproj.AssemblyReference.cache
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\DemoIntroduct\DemoIntroduct\obj\Debug\DemoIntroduct.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\DemoIntroduct\DemoIntroduct\obj\Debug\DemoIntroduct.Properties.Resources.resources
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\DemoIntroduct\DemoIntroduct\obj\Debug\DemoIntroduct.csproj.GenerateResource.cache
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\DemoIntroduct\DemoIntroduct\obj\Debug\DemoIntroduct.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\DemoIntroduct\DemoIntroduct\obj\Debug\DemoIntroduct.exe
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\DemoIntroduct\DemoIntroduct\obj\Debug\DemoIntroduct.pdb
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\DemoIntroduct\DemoIntroduct\obj\Debug\DemoIntroduct.Form1.resources
