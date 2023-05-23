@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChuaBaiTap1", "ChuaBaiTap1\ChuaBaiTap1.csproj", "{95F10A3F-3ECB-4C72-8363-1F77D512E824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95F10A3F-3ECB-4C72-8363-1F77D512E824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F10A3F-3ECB-4C72-8363-1F77D512E824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F10A3F-3ECB-4C72-8363-1F77D512E824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F10A3F-3ECB-4C72-8363-1F77D512E824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

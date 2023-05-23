@@ -1,0 +1,11 @@
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\ChuaBaiTap1\ChuaBaiTap1\bin\Debug\ChuaBaiTap1.exe.config
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\ChuaBaiTap1\ChuaBaiTap1\bin\Debug\ChuaBaiTap1.exe
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\ChuaBaiTap1\ChuaBaiTap1\bin\Debug\ChuaBaiTap1.pdb
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\ChuaBaiTap1\ChuaBaiTap1\obj\Debug\ChuaBaiTap1.csproj.AssemblyReference.cache
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\ChuaBaiTap1\ChuaBaiTap1\obj\Debug\ChuaBaiTap1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\ChuaBaiTap1\ChuaBaiTap1\obj\Debug\ChuaBaiTap1.Properties.Resources.resources
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\ChuaBaiTap1\ChuaBaiTap1\obj\Debug\ChuaBaiTap1.csproj.GenerateResource.cache
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\ChuaBaiTap1\ChuaBaiTap1\obj\Debug\ChuaBaiTap1.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\ChuaBaiTap1\ChuaBaiTap1\obj\Debug\ChuaBaiTap1.exe
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\ChuaBaiTap1\ChuaBaiTap1\obj\Debug\ChuaBaiTap1.pdb
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\ChuaBaiTap1\ChuaBaiTap1\obj\Debug\ChuaBaiTap1.Form1.resources
