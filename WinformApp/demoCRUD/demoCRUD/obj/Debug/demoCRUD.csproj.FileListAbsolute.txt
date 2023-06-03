@@ -36,3 +36,4 @@ C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\demoCRUD\demoCRUD\bin\Debug
 C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\demoCRUD\demoCRUD\obj\Debug\demoCRUD.Form1.resources
 C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\demoCRUD\demoCRUD\obj\Debug\demoCRUD.csproj.CopyComplete
 C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\demoCRUD\demoCRUD\obj\Debug\demoCRUD.CategoryList.resources
+C:\Users\admin\RiderProjects\CSharpD03K13\WinformApp\demoCRUD\demoCRUD\obj\Debug\demoCRUD.ProductList.resources
